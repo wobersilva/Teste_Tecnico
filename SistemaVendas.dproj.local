@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/08 11:05:13.000.713,=C:\Users\Wober\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/07/05 14:52:01.000.650,=C:\Users\Wober\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/10/06 13:57:22.000.291,=C:\Users\Wober\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/10/06 13:58:05.000.183,C:\______________WOBER\Teste Técnico\Sistema Venda\UPrincipal.dfm=C:\Users\Wober\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/10/06 13:58:05.000.183,C:\______________WOBER\Teste Técnico\Sistema Venda\UPrincipal.pas=C:\Users\Wober\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/10/06 13:58:17.000.510,C:\______________WOBER\Teste Técnico\Sistema Venda\SistemaVendas.dproj=C:\Users\Wober\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2021/10/06 13:58:26.000.325,=C:\______________WOBER\Teste Técnico\Sistema Venda\Unit1.pas</Transaction>
+    <Transaction>2021/10/06 13:58:37.000.240,C:\______________WOBER\Teste Técnico\Sistema Venda\UArquivos.pas=C:\______________WOBER\Teste Técnico\Sistema Venda\Unit1.pas</Transaction>
+    <Transaction>2021/10/06 13:58:37.000.240,C:\______________WOBER\Teste Técnico\Sistema Venda\UArquivos.dfm=C:\______________WOBER\Teste Técnico\Sistema Venda\Unit1.dfm</Transaction>
+    <Transaction>2021/10/06 14:05:41.000.355,=C:\______________WOBER\Teste Técnico\Sistema Venda\Unit1.pas</Transaction>
+    <Transaction>2021/10/07 10:18:18.000.445,=C:\______________WOBER\Teste Técnico\Sistema Venda\Unit1.pas</Transaction>
+    <Transaction>2021/10/07 10:18:43.000.883,C:\______________WOBER\Teste Técnico\Sistema Venda\UPesquisaCliente.dfm=C:\______________WOBER\Teste Técnico\Sistema Venda\Unit1.dfm</Transaction>
+    <Transaction>2021/10/07 10:18:43.000.883,C:\______________WOBER\Teste Técnico\Sistema Venda\UPesquisaCliente.pas=C:\______________WOBER\Teste Técnico\Sistema Venda\Unit1.pas</Transaction>
+    <Transaction>2021/10/07 19:55:40.000.677,=C:\______________WOBER\Teste Técnico\Sistema Venda\Unit1.pas</Transaction>
+    <Transaction>2021/10/07 19:57:42.000.596,C:\______________WOBER\Teste Técnico\Sistema Venda\Unit1.pas=C:\______________WOBER\Teste Técnico\Sistema Venda\UConsultaPedidos.pas</Transaction>
+    <Transaction>2021/10/07 19:57:42.000.596,C:\______________WOBER\Teste Técnico\Sistema Venda\Unit1.dfm=C:\______________WOBER\Teste Técnico\Sistema Venda\UConsultaPedidos.dfm</Transaction>
+    <Transaction>2021/10/08 07:46:50.000.802,=C:\______________WOBER\Teste Técnico\Sistema Venda\Unit1.pas</Transaction>
+    <Transaction>2021/10/08 07:47:42.000.189,C:\______________WOBER\Teste Técnico\Sistema Venda\Unit1.dfm=C:\______________WOBER\Teste Técnico\Sistema Venda\UNumeroPedido.dfm</Transaction>
+    <Transaction>2021/10/08 07:47:42.000.189,C:\______________WOBER\Teste Técnico\Sistema Venda\Unit1.pas=C:\______________WOBER\Teste Técnico\Sistema Venda\UNumeroPedido.pas</Transaction>
+  </Transactions>
+</BorlandProject>
